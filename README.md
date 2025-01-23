@@ -8,12 +8,12 @@ This project is hosted by the Northeast Big Data Innovation Hub & National Stude
 
 There are 6 milestones in this project.
 
-Data preparation
-Data ethics processing
-Time series analysis
-Geospatial analysis
-Self-guided research
-Virtual Poster
+* Data preparation
+* Data ethics processing
+* Time series analysis
+* Geospatial analysis
+* Self-guided research
+* Virtual Poster
 
 Reference for dataset
 https://nebigdatahub.org/dsrr/
